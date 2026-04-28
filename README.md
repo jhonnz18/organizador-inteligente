@@ -1,4 +1,7 @@
 # 🚀 Smart File Organizer
+![Python CI](https://github.com/jhonnz18/organizador-inteligente/actions/workflows/python-app.yml/badge.svg)
+
+Automatización inteligente de archivos desarrollada en Python...
 
 Automatización inteligente de archivos desarrollada en Python. Este sistema clasifica y organiza archivos de forma dinámica basándose en su extensión, moviéndolos desde la raíz del proyecto hacia carpetas categorizadas.
 
